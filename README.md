@@ -4,6 +4,8 @@ Sistema de gerenciamento de livraria desenvolvido em **PHP puro** com **MySQL**,
 
 Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas, mantido como portfólio.
 
+![Interface do Sistema de Livraria](docs/screenshot.jpg)
+
 ## Funcionalidades
 
 - Cadastro de livros com título, autor, ano, editora, categoria, quantidade, preço e data.
@@ -116,4 +118,4 @@ Este é um projeto acadêmico, não pronto para produção. Antes de usar em amb
 
 ## Autor
 
-Feito por [Henrique Walker](https://github.com/Henriquewalker31).
+Feito por [Henrique Walker](https://github.com/Henriquewalker31). Veja o [portfólio](https://henriquewalker31.github.io/).
